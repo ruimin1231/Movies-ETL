@@ -1,6 +1,6 @@
 # Movies-ETL
 ---
-# ETL pipeline on movie data using Python and postgreSQL
+## **ETL pipeline on movie data using Python and postgreSQL**
 
 ## Overview
 ---
