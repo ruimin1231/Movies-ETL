@@ -8,7 +8,7 @@ This project consisted on a automated Extraction, Transformation and Load pipeli
 
 ## Resources
 
-# Data sources:
+## Data sources:
 
 * movies_metadata.csv
 * ratings.csv
